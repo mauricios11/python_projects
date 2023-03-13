@@ -17,7 +17,7 @@ This is the dataset used for the project: [kaggle - World population](https://ww
               │   |                             the creator's initials, and a short `-` delimited description.
               │   ├── exploration
               │   │   └── 1-0_exploration_mau.ipynb
-              │   └── reports                <- Generated analysis as HTML, PDF, LaTeX, etc.
+              │   └── reports                <- Generated analysis summarized and easier to understand
               │       └── 1-0_report_mau.ipynb
               ├── utils                      <- Scripts to help with common tasks.
               └── visualization              <- Scripts to create exploratory and results oriented visualizations.
