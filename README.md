@@ -1,4 +1,4 @@
-# python_projects
+# python projects
 
 #### By: Mauricios
 
