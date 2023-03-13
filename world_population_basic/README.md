@@ -4,7 +4,7 @@
 
 The goal of this project is to prepare a raw dataset for data exploration.
 
-In order to avoid having problems in future projects due a lack of understanding of the operation of other python tools. *The challenge is **not to use pandas**.
+In order to avoid having problems in future projects due a lack of understanding of the operation of other python tools. *The challenge is **not to use pandas***.
 
 
 This is the dataset used for the project: [kaggle - World population](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)  
