@@ -3,6 +3,7 @@
 #### By: :t-rex:Mauricios
 
 The goal of this project is to prepare a raw dataset for data exploration.
+
 In order to avoid having problems in future projects due to a lack of understanding of the operation of the tools used that are independent of the pandas implementation *The challenge is **not to use pandas** to better understand the inner workings of python syntax & other important modules*.
 
 
